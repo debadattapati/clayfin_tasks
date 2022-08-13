@@ -1,0 +1,84 @@
+
+<html >
+<head>
+    
+    <title>ASSIGNMENT1</title>
+    <style>
+        body{
+    background-color: rgb(180, 206, 209);
+    
+        }
+    h1{
+        background-color:black;
+        color:blue;
+        width:110px;
+        padding: 20px;
+
+    }
+.abc{
+        
+
+        
+        border:3px dotted red;
+        margin-left:0px;
+        margin-top:10;
+        border-radius: 0px 20px 0px 20px;
+    }
+    .def{
+      
+
+       
+        border:3px dotted red;
+        margin-left:266px;
+        margin-top:20;
+        border-radius: 0px 20px 0px 20px;
+    }
+    .ghi{
+        
+
+       
+        border:3px dotted red;
+        margin-left:532px;
+        margin-top:30;
+        border-radius: 0px 20px 0px 20px;
+    }
+    .jkl{
+       
+
+        
+        border:3px dotted red;
+        margin-left:798px;
+        margin-top:40;
+        border-radius: 0px 20px 0px 20px;
+    }
+    .mno{
+       
+
+        
+        border:3px dotted red;
+        margin-left:1064px;
+        margin-top:50;
+        border-radius: 0px 20px 0px 20px;
+    }
+    .pqr{
+        
+
+       
+        border:3px dotted red;
+        margin-left:1330px;
+        margin-top:60;
+        border-radius: 0px 20px 0px 20px;
+    }
+    </style>
+    
+</head>
+<body>
+    <h1 class="abc">LUCKY</h1>
+    <h1 class="def">LUCKY</h1>
+    <h1 class="ghi">LUCKY</h1>
+    <h1 class="jkl">LUCKY</h1>
+    <h1 class="mno">LUCKY</h1>
+    <h1 class="pqr">LUCKY</h1>
+    
+</body>
+</html>
