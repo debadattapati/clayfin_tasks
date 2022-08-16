@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<p id="dc"></p>
+
+<script>
+let str = "Apple, Banana, Kiwi";
+document.getElementById("dc").innerHTML = str.slice(7,13); 
+</script>
+
+</body>
+</html>
+
+
