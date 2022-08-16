@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style> 
+body{
+    background-color: crimson;
+}
+div {
+  width: 100px;
+  height: 100px;
+  border: 8px dotted black;
+  background: linear-gradient(45deg,red,blue,skyblue);
+  position: relative;
+  animation: mymove  3s 1s alternate-reverse infinite;
+border-radius: 60%;
+align-items: center;
+text-align: center;
+}
+
+
+@keyframes mymove {
+  0%   {top: 0px;left:0px;}
+  25%  {top: 0px;left: 900px;}
+  75%  {top: 500px;left: 900px;}
+  100% {top: 0px;left: 0px;}
+}
+</style>
+</head>
+<body>
+
+
+<div><i><b><h2> LUCKY
+    hiiii
+</h2></b></i></div>
+
+</body>
+</html>
