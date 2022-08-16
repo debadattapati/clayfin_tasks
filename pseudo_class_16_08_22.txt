@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>my page</title>
+<style>
+body{
+  background-color: aqua;
+}
+  h1{
+    text-align: center;
+    background-color: chartreuse;
+  }
+a:link {
+  color: red;
+}
+a:visited {
+  color:blue;
+}
+a:hover {
+  color: pink;
+}
+a:active {
+  color:skyblue;
+}
+</style>
+</head>
+<body>
+
+
+<p><h1><i><a href="https://www.google.com/">click here to go to google</a></i></h1></p>
+
+
+</body>
+</html>
+
+

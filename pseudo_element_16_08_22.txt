@@ -1,0 +1,17 @@
+<html>
+<head>
+<style>
+p::first-line {
+  color: red;
+  font-size: x-large;
+  font-style: italic;
+}
+</style>
+</head>
+<body>
+
+<p> Independence Day, August 15, has unique importance for Indian nationals. It is a day when we remember the sacrifices made by our freedom warriors. It instills patriotism in us and drives us to do something for our nation. Independence Day is also a time to celebrate our freedom.</p>
+
+</body>
+</html>
+
