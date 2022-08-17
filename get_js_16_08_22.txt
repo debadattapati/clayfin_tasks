@@ -1,0 +1,14 @@
+const student = {
+
+    firstName: 'lucky',
+    
+    get getName() {
+        return this.firstName;
+    }
+};
+
+console.log(student.firstName); // lucky
+
+console.log(student.getName); // lucky
+
+console.log(student.getName()); // error
